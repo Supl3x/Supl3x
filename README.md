@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Supl3x">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E9AFF&center=true&vCenter=true&width=600&lines=Aspiring+Computer+Scientist;Struggling+Vibecoder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E9AFF&center=true&vCenter=true&width=600&lines=Aspiring+Computer+Scientist;Struggling+Developer;Wasted+Potential" alt="Typing SVG" />
 </a>
 </div>
 
