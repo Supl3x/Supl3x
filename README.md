@@ -41,7 +41,6 @@ I like Shawarma
 
 ---
 
-### 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Supl3x&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Supl3x&theme=dark&hide_border=false)
@@ -49,7 +48,6 @@ I like Shawarma
 
 ---
 
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supl3x/Supl3x/output/github-contribution-grid-snake-dark.svg">
