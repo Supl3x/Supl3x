@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Supl3x/Supl3x/main/assets/banner.gif" alt="Banner" width="100%" />
+</div>
 
 <div align="center">
 <a href="https://github.com/Supl3x">
@@ -58,5 +60,3 @@ I like Shawarma
 ---
 
 [![](https://komarev.com/ghpvc/?username=Supl3x&icon=9&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
